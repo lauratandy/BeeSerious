@@ -1,0 +1,79 @@
+
+/* ======= ======= ======= general ======= ======= ======= */
+html, body {
+    height: 100%;
+}
+/* header */
+.header {
+  background-color: #EDE877;
+  color: black;
+  text-align: center;
+  padding: 3px;
+  margin: -10px;
+}
+h1 {
+  font-family: Georgia, serif;
+  font-size: 32px;
+  line-height: 10px;
+}
+#bee {
+  width: 32px;
+  height: 32px;
+}
+h2 {
+  font-size: 20px;
+  font-weight: 200;
+  text-transform: uppercase;
+}
+/* page title */
+.pageTitle {
+  background-color: black;
+  margin: 10px -10px 30px -10px;
+  height: 50px;
+  padding: 10px;
+}
+h3 {
+  color: #EDE877;
+  font-family: 'krLittleBuzz';
+  font-size: 38px;
+  font-weight: 400;
+  /*padding: 0;*/
+  text-align: center;
+}
+#subtitle {
+    margin: 0;
+}
+
+#beepic {
+    float: left;
+    margin: 0 10px;
+    height: auto;
+    width: 25%;
+}
+
+#container {
+    margin: 20px;
+}
+
+/* footer */
+.footer {
+  background-color: #EDE877;
+  font-family: Georgia, serif;
+  text-align: center;
+  margin: 0px -10px 10px -10px;
+  font-size: 12px;
+  line-height: 10px;
+  padding: 10px;
+}
+.buttonsFooter a {
+  padding: 5px;
+  text-transform: uppercase;
+}
+
+
+
+
+
+/* ======= ======= ======= ARCHIVE ======= ======= ======= */
+/* ======= ======= ======= ARCHIVE ======= ======= ======= */
+/* ======= ======= ======= ARCHIVE ======= ======= ======= */
